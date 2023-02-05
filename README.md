@@ -1,1 +1,2 @@
-Back_ground_text_color.py
+_Background text color_<br>
+<h6>This code uses the "colorama" library to add color to text entered by the user. The "Fore" module specifies the text color, while the "Back" module sets the background color. The "autoreset" option resets the color style once the execution is complete. The code then prints the input text in different color combinations. The "colorama" library has limited color options</h6>
